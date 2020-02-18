@@ -6,7 +6,7 @@ namespace ggtest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change");
+            Console.WriteLine("git ignore added");
 
         }
     }
